@@ -1,0 +1,196 @@
+html{
+
+}
+
+#avatar{
+
+    padding-left: 60px !important;
+    padding-top: 5%! important;
+    padding-bottom: 5% !important;
+}
+
+#title-screen{
+    color: cornsilk !important;
+    margin-top: 20vh;
+    text-align: center;
+    margin-left: 5vh;
+}
+html, body {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    top:0;
+    left:0;
+}
+body{
+    background: linear-gradient(30deg,#be2edd,#4834d4);
+    font-size: 48px;
+
+}
+table{
+    width: 100%;
+    text-align: left;
+    left: 0;
+}
+
+ul{
+    top: 0;
+    margin-top: 0%;
+    padding-top: 0%;
+    width: 20%;
+    float: left;
+}
+
+li{
+    list-style-type:none;
+    text-decoration: none;
+}
+
+footer{
+    background: #696969;
+    bottom: 0;
+    position: static;
+    width: 100%;
+}
+
+#subtitle{
+    color: white;
+    font-size: 23px !important;
+    text-align: center;
+    font-family: Roboto, sans-serif;
+    font-size: 2.7em;
+    font-weight: 100;
+    line-height: 1em;
+    letter-spacing: 0.1em;
+    color: white;
+    margin-top: -0.7em;
+    padding: 0.65em 0 0.65em 0.7em;
+
+}
+h4{
+
+    font-size: 2.7em;
+    font-weight: 100;
+    line-height: 1em;
+    letter-spacing: 0.1em;
+    color: black;
+}
+
+.left{
+    padding-top: 3%;
+}
+
+.mdl-textfield__input{
+    text-emphasis-color: white;
+}
+
+.mdl-button mdl-js-button mdl-button--raised mdl-button--colored{
+    color: white;
+}
+#row-fluid{
+    width: 25%;
+    top: 55%;
+    left: 40%;
+    position: absolute;
+}
+
+#btnLogin{
+    float: right;
+    right: 11%;
+}
+
+.label-sign{
+    color: white !important;
+    }
+#login-txt{
+    color: white;
+}#password-txt{
+    color: white;
+}
+#row-fluid-principal{
+    display:inline-table;
+    width: 100%;
+}
+.mdl-textfield{
+    width: 200%;
+}
+
+#brand-name{
+    color: white;
+    font-size: 48px;
+    position: absolute;
+    display: inline-block;
+    text-align: center;
+    left: 0;
+    top: 40%;
+    right: 0;
+    font-family: Roboto, sans-serif;
+    font-size: 2.7em;
+    font-weight: 100;
+    line-height: 1em;
+    letter-spacing: 0.1em;
+    color: white;
+    margin-top: -0.7em;
+    padding: 0.65em 0 0.65em 0.7em;
+    padding-top: 5%;
+    padding-bottom: 3%;
+
+}
+
+#brand{
+    width: 100%;
+    display: inline;
+}
+
+.icon{
+    position: absolute;
+    display: inline-block;
+    left: 43%;
+    top: 20%;
+    width: 14%;
+}
+
+.button-personal{
+    border: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+#footer{
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+
+/* Smartphones (portrait and landscape) ———– */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+
+    /* Styles */
+    .icon{
+        width: 36%;
+        left: 34%;
+    }
+
+    #row-fluid{
+        width: 60%;
+        top: 55%;
+        left: 20%;
+        position: absolute;
+    }
+    #btnLogin{
+        float: right;
+        right: 0;
+        width: 10%;
+    }
+    #form-login{
+        width: 100%;
+    }
+    #label-sign{
+        width: 100%;
+        font-size: 35px;
+    }
+}
