@@ -8,6 +8,9 @@ th{
     margin-bottom: 0.5vh;
     background: #7bed9f;
 }
+#button-nav{
+    color: white !important;
+}
 #form-panel{
     display: none
 }
