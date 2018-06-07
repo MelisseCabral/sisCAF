@@ -1,3 +1,4 @@
+***
 <h1 align="right" > Universidade Federal do Ceará<br>Engenharia da Computação
 
 <br>
@@ -13,14 +14,14 @@
 
 <h2> Histórico de Revisões
 
-  |**Data**    | **Versão** |  **Descrição**                                                                           |  **Autor** |
-  |------------|------------| -----------------------------------------------------------------------------------------|------------|
-  |            | 0.1        |                                                                                          |            |
-  |            | 0.2        |                                                                                          |            |
-  |            | 0.3        |                                                                                          |            |
-  |            | 0.4        |                                                                                          |            |
-  |            | 0.5        |                                                                                          |            |
-  |            | 0.6        |                                                                                          |            | 
+  |**Data**    | **Versão** |  **Descrição**                                                                        |    **Autor**   |
+  |------------|------------| --------------------------------------------------------------------------------------|----------------|
+  | 28/05/2018 | 0.1        | Definição inicial de Layout                                                           | @MelisseCabral |
+  | 30/05/2018 | 0.2        | Navegação de menu e telas                                                             | @MelisseCabral |
+  | 02/06/2018 | 0.3        | Implementação do sistema de login e cadastro de novo usuários                         | @MelisseCabral |
+  | 03/06/2018 | 0.4        | Responsividade parcial para dispositivos móveis                                       | @MelisseCabral |
+  |            | 0.5        |                                                                                       |                |
+  |            | 0.6        |                                                                                       |                | 
   <br>
 
 Sumário
