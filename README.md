@@ -1,25 +1,26 @@
-Universidade Federal do Ceará<br> Engenharia da Computação
-==========================================================
+<h1 align="right" > Universidade Federal do Ceará<br>Engenharia da Computação
 
+<br>
+<br>
 
+<h2 align="right" >Documento de Requisitos e Funcionalidades<br> PosGRAD V.0.6
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-Documento de Requisitos<br> PosGRAD V.0.6
------------------------------------------
+<h2> Histórico de Revisões
 
-
-
-Histórico de Revisões
----------------------
-
-  |**Data**    | **Versão** |  **Descrição**                           |  **Autor** |
-  |------------|------------| -----------------------------------------|------------|
-  |            | 0.1        |                                          |            |
-  |            | 0.2        |                                          |            |
-  |            | 0.3        |                                          |            |
-  |            | 0.4        |                                          |            |
-  |            | 0.5        |                                          |            |
-  |            | 0.6        |                                          |            |
-  
+  |**Data**    | **Versão** |  **Descrição**                                                                           |  **Autor** |
+  |------------|------------| -----------------------------------------------------------------------------------------|------------|
+  |            | 0.1        |                                                                                          |            |
+  |            | 0.2        |                                                                                          |            |
+  |            | 0.3        |                                                                                          |            |
+  |            | 0.4        |                                                                                          |            |
+  |            | 0.5        |                                                                                          |            |
+  |            | 0.6        |                                                                                          |            | 
   <br>
 
 Introdução
@@ -91,3 +92,13 @@ desempenho, segurança de altíssima disponibilidade em nível global.
   Devido ao uso da plataforma Firebase tornou-se possível uma abstração
 da autenticação, processo dificultoso sem ela, no que se mostra o
 salvamento da seção.
+
+Funcionalidades:
+================
+  User Stories:
+  -------------
+<br>
+**US1:** Como discente, gostaria de ter criar uma conta.<br>
+**Cliente:** Discente sem vinculo.<br>
+**Funcionalidade:** Criação de conta para alunos da pos graduação.<br>
+<br>
