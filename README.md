@@ -26,7 +26,6 @@
 Sumário
 =======
  - [Introdução](#introdução)
- - [Descrição Geral do Sistema](#descrição-geral-do-sistema)
  - [Requisitos](#requisitos)
  - [Funcionalidades](#funcionalidades)
  - [Arquitetura do Sistema](#arquitetura-do-sistema)
@@ -40,6 +39,9 @@ Introdução
 <p>Esse projeto está focado no usuário que necessita de uma interface
 amigável. Promovendo por meio da simplicidade de layout a descomplexidade no
 uso, facilidade até mesmo ao mais inexperiente usuário.<p/>
+
+### Descrição Geral do sistema
+<p></p>
 
 Visão Geral
 -----------
