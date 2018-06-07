@@ -25,13 +25,22 @@
 
 Sumário
 =======
- 1 [Introdução](#introdução)
- 2 [Requisitos](#requisitos)
- 3 [Funcionalidades](#funcionalidades)
- 4 [Arquitetura do Sistema](#arquitetura-do-sistema)
- 5 [Programa e Execução do Software](#programa-e-execução-do-software)
- 6 [Representação do Software](#representação-do-software)
- 
+ 1. [Introdução](#introdução)<br>
+    1.1 [Visão Geral](#visão-geral)<br>
+    1.2 [Descriçao Geral do Sistema](#descrição-geral-do-sistema)<br>
+    1.3 [Acrônimos e Abreviações](#acrônimos-e-abreviações)
+ 2. [Requisitos](#requisitos)<br>
+    2.1 [Requisitos Funcionais](#requisitos-funcionais)<br>
+    2.2 [Requisitos Não Funcionais](#requisitos-não-funcionais)
+ 3. [Funcionalidades](#funcionalidades)
+ 4. [Arquitetura do Sistema](#arquitetura-do-sistema)<br>
+    4.1 [Modelo](#modelo)<br>
+ 5. [Programa e Execução do Software](#programa-e-execução-do-software)<br>
+    5.1 [Propósito](#propósito)<br>
+    5.2 [Gestão de configuração](#gestão-de-configuração)<br>
+ 6. [Representação do Software](#representação-do-software)<br>
+    6.1 [Funções disponíveis na versão](#funções-disponíveis-na-versão)<br>
+    6.2 [Procedimentos para execução](#procedimentos-para-execução)<br>
 
 Introdução
 ==========
@@ -39,9 +48,6 @@ Introdução
 <p>Esse projeto está focado no usuário que necessita de uma interface
 amigável. Promovendo por meio da simplicidade de layout a descomplexidade no
 uso, facilidade até mesmo ao mais inexperiente usuário.<p/>
-
-### Descrição Geral do sistema
-<p></p>
 
 Visão Geral
 -----------
@@ -54,7 +60,10 @@ aplicação. A **seção 4** descreve os requisitos não-funcionais. A
 descreve os casos de uso da aplicação. A **seção 7** mostra o modelo
 navegacional da aplicação.<p/>
 
-### Definições, Acrônimos e Abreviações
+### Descrição Geral do sistema
+<p></p>
+
+### Acrônimos e Abreviações
 <p>[Essa sub-seção deve mostrar as definições de todos os termos, acrônimos e abreviações necessárias para a interpretação desse plano.]</p>
 
 Requisitos
@@ -156,6 +165,6 @@ Representação do Software
    ----------------------------
    ### Funções disponíveis na versão
 
-  Procedimentos para instalação e execução
-  ----------------------------------------
+  Procedimentos para execução
+  ---------------------------
   ### Execução
