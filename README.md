@@ -1,33 +1,39 @@
 # sisCAF
 Prótotipo criado para o HackDay Sobral (05/05/2018)
-> *.*
+
+<br>
+<br>
+
+Universidade Federal do Ceará<br> Engenharia da Computação
+==========================================================
+
+
+
+Documento de Requisitos<br> PosGRAD V.0.6
+-----------------------------------------
+
+
 
 Histórico de Revisões
+---------------------
 
-  **Data**     **Versão**   **Descrição**                             **Autor**
-  ------------ ------------ ----------------------------------------- -----------
-  25/03/2018   0.1          Definições de layout.                     
-  26/03/2018   0.2          Adição do framework Firebase.             
-  28/03/2018   0.3          Terminada autenticação.                   
-  30/03/2018   0.4          Terminada, alteração de conta.            
-  01/04/2018   0.5          Implementação de contato.                 
-  04/04/2018   0.6          Implementação de interface de apostador   
-
-Conteúdo
+  |**Data**    | **Versão** |  **Descrição**                           |  **Autor** |
+  |------------|------------| -----------------------------------------|------------|
+  |            | 0.1        |                                          |            |
+  |            | 0.2        |                                          |            |
+  |            | 0.3        |                                          |            |
+  |            | 0.4        |                                          |            |
+  |            | 0.5        |                                          |            |
+  |            | 0.6        |                                          |            |
+  
+  <br>
 
 Introdução
 ==========
 
 <p>Esse projeto está focado no usuário que necessita de uma interface
-amigável de apostas de seu time favorito, quase que corriqueiramente.
-Promovendo por meio da simplicidade de layout e descomplexidade na
-aposta, facilidade até mesmo ao mais inexperiente usuário.<p/>
-
-<p>Assim como, a utilização pelo usuário mais experiente, tornando possível
-sem o entendimento de sintaxe de programação, por meio de uma
-programação cognitiva, nativa do cotidiano de quem aposta, apenas
-contendo blocos lógicos básicos de axiomas lógicos como, se, repita até,
-aposte, saia do jogo, etc.<p/>
+amigável. Promovendo por meio da simplicidade de layout e descomplexidade no
+uso, facilidade até mesmo ao mais inexperiente usuário.<p/>
 
 Visão Geral
 -----------
@@ -44,8 +50,8 @@ navegacional da aplicação.<p/>
 Descrição Geral do Sistema
 ==========================
 
-1.  Requisitos Funcionais
-    =====================
+   Requisitos Funcionais:
+   ----------------------
 
  
 Login
@@ -80,11 +86,13 @@ Contato
 > Tela que permite o envio de mensagem reportando, erro, problema,
 > solução ou elogio ao email da empresa.
 
-1.  Requisitos Não Funcionais
-    =========================
+Requisitos Não Funcionais
+=========================
 
-    1.  Conexão com o banco de dados.
-        -----------------------------
+<br>
+
+Conexão com o banco de dados.
+-----------------------------
 
 > O tipo de banco de dados utilizado para a aplicação foi o No-SQL, que
 > apresenta melhor desempenho quando comparado a outros modelos de banco
