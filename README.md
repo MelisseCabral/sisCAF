@@ -23,15 +23,12 @@
   |            | 0.6        |                                                                                          |            | 
   <br>
 
-Introdução
-==========
-
-<p>O propósito deste documento é registrar o código e definir os procedimentos para sua instalação e execução. Ele deve ter foco nas atividades do programador e nas necessidades dos usuários.
-<p/>
 
 Arquitetura do Sistema
 ======================
+  <p>O propósito deste documento é registrar a arquitetura proposta para o sistema de maneira abstraida, afim de expressar de forma geral o funcionamento do sistema e sua implementação.
+<p/>
 
-   <Nome do executável><versão>
-   ----------------------------
-   
+   Modelo
+   ------
+   <p><p/>
