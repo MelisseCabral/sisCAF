@@ -1,17 +1,5 @@
 # sisCAF
 Prótotipo criado para o HackDay Sobral (05/05/2018)
-
-> *\[O texto em azul exibido entre colchetes e em itálico
-> (style=InfoBlue) foi incluído para orientar o autor e deve ser
-> excluído antes da publicação do documento. Qualquer parágrafo inserido
-> após esse estilo será definido automaticamente como normal
-> (estilo=BodyText)\]*
->
-> *\[O texto entre os símbolos de “maior que” e “menor que” exemplo
-> &lt;Nome do Projeto&gt;, deve ser substituído pelo nome do seu
-> projeto, assim como, todas as outras informações encontradas entre os
-> símbolos\]*
->
 > *.*
 
 Histórico de Revisões
@@ -30,45 +18,38 @@ Conteúdo
 Introdução
 ==========
 
-Esse projeto está focado no usuário que necessita de uma interface
+<p>Esse projeto está focado no usuário que necessita de uma interface
 amigável de apostas de seu time favorito, quase que corriqueiramente.
 Promovendo por meio da simplicidade de layout e descomplexidade na
-aposta, facilidade até mesmo ao mais inexperiente usuário.
+aposta, facilidade até mesmo ao mais inexperiente usuário.<p/>
 
-Assim como, a utilização pelo usuário mais experiente, tornando possível
+<p>Assim como, a utilização pelo usuário mais experiente, tornando possível
 sem o entendimento de sintaxe de programação, por meio de uma
 programação cognitiva, nativa do cotidiano de quem aposta, apenas
 contendo blocos lógicos básicos de axiomas lógicos como, se, repita até,
-aposte, saia do jogo, etc.
+aposte, saia do jogo, etc.<p/>
 
 Visão Geral
 -----------
 
-[]{#_7i7uwl7i08st .anchor}Este documento está organizado em várias
+<p>Este documento está organizado em várias
 seções com conteúdo específico. A **seção 2** mostra uma visão geral do
 escopo do projeto. A **seção 3** descreve os requisitos funcionais da
 aplicação. A **seção 4** descreve os requisitos não-funcionais. A
 **seção 5** apresenta os diagramas dos casos de uso. A **seção 6**
 descreve os casos de uso da aplicação. A **seção 7** mostra o modelo
-navegacional da aplicação.
+navegacional da aplicação.<p/>
 
-[]{#_2et92p0 .anchor}
 
-1.  Descrição Geral do Sistema
-    ==========================
-
-    1.  Escopo Negativo
-        ---------------
-
--   Adição de crédito a conta da exchange de apostas.
-
--   
+Descrição Geral do Sistema
+==========================
 
 1.  Requisitos Funcionais
     =====================
 
-    1.  Login
-        -----
+ 
+Login
+-----
 
 > Consiste em uma tela de e de um sistema de autenticação, que compara a
 > chave inserida, com a salva no servidor.
@@ -98,8 +79,6 @@ Contato
 
 > Tela que permite o envio de mensagem reportando, erro, problema,
 > solução ou elogio ao email da empresa.
-
-[]{#_17dp8vu .anchor}
 
 1.  Requisitos Não Funcionais
     =========================
