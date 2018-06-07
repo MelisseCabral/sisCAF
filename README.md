@@ -25,12 +25,12 @@
 
 Sumário
 =======
- - [Introdução](#introdução)
- - [Requisitos](#requisitos)
- - [Funcionalidades](#funcionalidades)
- - [Arquitetura do Sistema](#arquitetura-do-sistema)
- - [Programa e Execução do Software](#programa-e-execução-do-software)
- - [Representação do Software](#representação-do-software)
+ 1 [Introdução](#introdução)
+ 2 [Requisitos](#requisitos)
+ 3 [Funcionalidades](#funcionalidades)
+ 4 [Arquitetura do Sistema](#arquitetura-do-sistema)
+ 5 [Programa e Execução do Software](#programa-e-execução-do-software)
+ 6 [Representação do Software](#representação-do-software)
  
 
 Introdução
