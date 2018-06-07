@@ -32,9 +32,6 @@ Introdução
 ### Propósito
 <p>Este documento provê uma visão compreensiva do código do sistema desenvolvido usando diferentes visões para compreender diferentes aspectos do sistema.</p>
 
-### Propósito
-<p>Este documento provê uma visão compreensiva do código do sistema desenvolvido usando diferentes visões para compreender diferentes aspectos do sistema.</p>
-
 ### Definições, Acrônimos e Abreviações
 <p>[Essa sub-seção deve mostrar as definições de todos os termos, acrônimos e abreviações necessárias para a interpretação desse plano.]</p>
 
