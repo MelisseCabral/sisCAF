@@ -34,9 +34,6 @@ Introdução
 amigável. Promovendo por meio da simplicidade de layout a descomplexidade no
 uso, facilidade até mesmo ao mais inexperiente usuário.<p/>
 
-### Definições, Acrônimos e Abreviações
-<p>[Essa sub-seção deve mostrar as definições de todos os termos, acrônimos e abreviações necessárias para a interpretação desse plano.]</p>
-
 Visão Geral
 -----------
 
@@ -48,6 +45,8 @@ aplicação. A **seção 4** descreve os requisitos não-funcionais. A
 descreve os casos de uso da aplicação. A **seção 7** mostra o modelo
 navegacional da aplicação.<p/>
 
+### Definições, Acrônimos e Abreviações
+<p>[Essa sub-seção deve mostrar as definições de todos os termos, acrônimos e abreviações necessárias para a interpretação desse plano.]</p>
 
 Descrição Geral do Sistema
 ==========================
