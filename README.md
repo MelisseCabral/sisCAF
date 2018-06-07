@@ -1,9 +1,3 @@
-# sisCAF
-Prótotipo criado para o HackDay Sobral (05/05/2018)
-
-<br>
-<br>
-
 Universidade Federal do Ceará<br> Engenharia da Computação
 ==========================================================
 
@@ -54,54 +48,46 @@ Descrição Geral do Sistema
    ----------------------
 
  
-Login
------
+<h3>Login<h3/>
 
-> Consiste em uma tela de e de um sistema de autenticação, que compara a
-> chave inserida, com a salva no servidor.
+Consiste em uma tela de e de um sistema de autenticação, que compara a
+chave inserida, com a salva no servidor.
 
-Cadastro
---------
+<h3>Cadastro<h3/>
 
-> Permite a criação de um usuário, ou seja de um novo campo na tabela
-> *users* do banco de dados.
+Permite a criação de um usuário, ou seja de um novo campo na tabela
+*users* do banco de dados.
 
-Remoção de Conta
-----------------
+<h3>Remoção de Conta<h3/>
 
-> Solicitado usuário sua senha, prosseguida de uma tela de autenticação
-> por senha para que haja confirmação da real intenção.
+Solicitado usuário sua senha, prosseguida de uma tela de autenticação
+por senha para que haja confirmação da real intenção.
 
-Alteração de Conta
-------------------
+<h3>Alteração de Conta<h3/>
 
-> Modificação de parâmetros da conta, como nome de usuário, email, e
-> senha. Verificando sempre se há no sistema alguém com os respectivos
-> nomes de usuários e email, não podendo fazer e reportando erro em caso
-> de tentativa de duplicidade de parâmetros.
+Modificação de parâmetros da conta, como nome de usuário, email, e
+senha. Verificando sempre se há no sistema alguém com os respectivos
+nomes de usuários e email, não podendo fazer e reportando erro em caso
+de tentativa de duplicidade de parâmetros.
 
-Contato
--------
+<h3>Contato<h3/>
 
-> Tela que permite o envio de mensagem reportando, erro, problema,
-> solução ou elogio ao email da empresa.
+Tela que permite o envio de mensagem reportando, erro, problema,
+solução ou elogio ao email da empresa.
 
-Requisitos Não Funcionais
-=========================
-
+  Requisitos Não Funcionais:
+  --------------------------
 <br>
 
-Conexão com o banco de dados.
------------------------------
+<h3>Conexão com o banco de dados<h3/>
 
-> O tipo de banco de dados utilizado para a aplicação foi o No-SQL, que
-> apresenta melhor desempenho quando comparado a outros modelos de banco
-> de dados. Está hospedado em uma plataforma que oferece além de
-> desempenho, segurança de altíssima disponibilidade em nível global.
+O tipo de banco de dados utilizado para a aplicação foi o No-SQL, que
+apresenta melhor desempenho quando comparado a outros modelos de banco
+de dados. Está hospedado em uma plataforma que oferece além de
+desempenho, segurança de altíssima disponibilidade em nível global.
 
- Autenticação
--------------
+<h3> Autenticação <h3/>
 
-> Devido ao uso da plataforma Firebase tornou-se possível uma abstração
-> da autenticação, processo dificultoso sem ela, no que se mostra o
-> salvamento da seção.
+  Devido ao uso da plataforma Firebase tornou-se possível uma abstração
+da autenticação, processo dificultoso sem ela, no que se mostra o
+salvamento da seção.
