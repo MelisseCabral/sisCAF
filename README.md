@@ -26,7 +26,7 @@ Introdução
 ==========
 
 <p>Esse projeto está focado no usuário que necessita de uma interface
-amigável. Promovendo por meio da simplicidade de layout e descomplexidade no
+amigável. Promovendo por meio da simplicidade de layout a descomplexidade no
 uso, facilidade até mesmo ao mais inexperiente usuário.<p/>
 
 Visão Geral
