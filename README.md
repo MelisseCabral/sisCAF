@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<h2 align="right" >Documento de Arquitetura do Sistema<br> PosGRAD V.0.6
+<h2 align="right" >Documento de Sistema<br> PosGRAD V.0.6
 <br>
 <br>
 <br>
