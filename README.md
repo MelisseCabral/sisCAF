@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<h2 align="right" >Documento de Requisitos e Funcionalidades<br> PosGRAD V.0.6
+<h2 align="right" >Documento do Programa e Execução do Software<br> PosGRAD V.0.6
 <br>
 <br>
 <br>
