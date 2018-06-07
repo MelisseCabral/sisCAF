@@ -23,12 +23,3 @@
   |            | 0.6        |                                                                                          |            | 
   <br>
 
-
-Arquitetura do Sistema
-======================
-  <p>O propósito deste documento é registrar a arquitetura proposta para o sistema de maneira abstraida, afim de expressar de forma geral o funcionamento do sistema e sua implementação.
-<p/>
-
-   Modelo
-   ------
-   <p><p/>
