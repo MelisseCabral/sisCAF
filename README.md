@@ -50,18 +50,18 @@ Descrição Geral do Sistema
  
 <h3>Login<h3/>
 
-Consiste em uma tela de e de um sistema de autenticação, que compara a
-chave inserida, com a salva no servidor.
+<p>Consiste em uma tela de e de um sistema de autenticação, que compara a
+chave inserida, com a salva no servidor.<p/>
 
 <h3>Cadastro<h3/>
 
-Permite a criação de um usuário, ou seja de um novo campo na tabela
-*users* do banco de dados.
+<p>Permite a criação de um usuário, ou seja de um novo campo na tabela
+*users* do banco de dados.<p/>
 
 <h3>Remoção de Conta<h3/>
 
-Solicitado usuário sua senha, prosseguida de uma tela de autenticação
-por senha para que haja confirmação da real intenção.
+<p>Solicitado usuário sua senha, prosseguida de uma tela de autenticação
+por senha para que haja confirmação da real intenção.<p/>
 
 <h3>Alteração de Conta<h3/>
 
