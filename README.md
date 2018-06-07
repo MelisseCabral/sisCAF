@@ -22,7 +22,12 @@ Histórico de Revisões
   | 02/06/2018 | 0.3        | Implementação do sistema de login e cadastro de novo usuários                         | @MelisseCabral |
   | 03/06/2018 | 0.4        | Responsividade parcial para dispositivos móveis                                       | @MelisseCabral |
   |            | 0.5        |                                                                                       |                |
-  |            | 0.6        |                                                                                       |                | 
+  |            | 0.6        |                                                                                       |                |
+  |            | 0.7        |                                                                                       |                |
+  |            | 0.8        |                                                                                       |                | 
+  |            | 0.9        |                                                                                       |                |
+  |            | 1.0        |                                                                                       |                | 
+  
   <br>
 
 Sumário
