@@ -98,7 +98,7 @@ Funcionalidades:
   User Stories:
   -------------
 <br>
-<b>US1:<b/> Como discente, gostaria de ter criar uma conta.<br>
-<b>Cliente:<b/> Discente sem vinculo.<br>
-<b>Funcionalidade:<b/> Criação de conta para alunos da pos graduação.<br>
+<b>US1:</b>Como discente, gostaria de ter criar uma conta.<br>
+<b>Cliente:</b> Discente sem vinculo.<br>
+<b>Funcionalidade:</b> Criação de conta para alunos da pos graduação.<br>
 <br>
